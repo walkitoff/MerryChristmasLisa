@@ -35,7 +35,7 @@ h2 {
 }
 
 img {
-    /* height: 250px; */
+    height: 250px;
     border-top: dotted 10px white;
     border-bottom: dotted 10px white;
     padding: 15px;
