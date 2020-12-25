@@ -1,38 +1,37 @@
 
-body {
+html {
     background: linear-gradient(to right, rgb(0, 140, 255, 30%) , rgb(1, 102, 1, 80%) 50%, rgb(0, 140, 255, 70%));    
 }
 
 .container {
+    border-top: dotted 10px white;
+    border-bottom: dotted 10px white;
     display: flex;
 	flex-wrap: wrap;
     justify-content: center;
 }
 h2 {
-	
     text-align: center;
-    width: 360px;
-    font-size: 30px;
-    background: -webkit-linear-gradient(#eee, rgb(63, 61, 61));
+    font-size: 40px;
+    background: -webkit-linear-gradient(#eee, rgb(132, 91, 138));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
      margin-top: 30px;
      margin-bottom: 10px;
-     margin-left: 25%;
-     margin-right: 25%;
+    
 }
 img {
     height: 250px;
     border: dotted 10px white;
     padding: 15px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 .svg-bike {
     margin-top: 20px;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
     padding: 0;
     box-sizing: border-box;
 }
