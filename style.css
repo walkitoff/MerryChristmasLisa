@@ -36,7 +36,8 @@ h2 {
 
 img {
     height: 250px;
-    border: dotted 10px white;
+border-top: dotted 10px white;
+border-bottom: dotted 10px white;
     padding: 15px;
     margin-left: 15%;
     margin-right: 15%;
